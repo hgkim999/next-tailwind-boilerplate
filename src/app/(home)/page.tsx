@@ -61,6 +61,7 @@ export default function Home() {
               <li>{'Based on Node 20 (LTS soon)'}</li>
               <li>Docker build templates</li>
               <li>Husky pre-commit lint</li>
+              <li>Pino Logger</li>
             </ul>
           </ul>
         </div>
