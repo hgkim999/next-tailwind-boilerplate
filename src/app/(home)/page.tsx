@@ -42,7 +42,7 @@ export default function Home() {
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl  lg:text-left">
         <div className="mb-2 justify-start lg:w-full lg:max-w-5xl">
           <h2 className="text-2xl font-semibold">
-            What's included in this boilerplace
+            What&apos;s included in this boilerplace
           </h2>
         </div>
         <div className="grid lg:grid-cols-3">
